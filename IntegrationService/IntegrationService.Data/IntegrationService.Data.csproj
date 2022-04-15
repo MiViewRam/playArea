@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MiView.DataContext" Version="0.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IntegrationService.Contracts\IntegrationService.Contracts.csproj" />
+    <ProjectReference Include="..\IntegrationService.Core\IntegrationService.Core.csproj" />
+  </ItemGroup>
+
+</Project>
