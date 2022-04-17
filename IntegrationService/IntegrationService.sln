@@ -5,17 +5,17 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationService.Functions", "IntegrationService.Functions\IntegrationService.Functions.csproj", "{6F080A14-F92D-461D-A2B2-6306DE031C1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationService.Contracts", "IntegrationService.Contracts\IntegrationService.Contracts.csproj", "{4F962A3B-52C4-4D4C-A203-3C08FC779428}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationService.Contracts", "IntegrationService.Contracts\IntegrationService.Contracts.csproj", "{4F962A3B-52C4-4D4C-A203-3C08FC779428}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationService.Data", "IntegrationService.Data\IntegrationService.Data.csproj", "{28344EA7-A0CD-4776-BC5B-EF27722D49F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationService.Data", "IntegrationService.Data\IntegrationService.Data.csproj", "{28344EA7-A0CD-4776-BC5B-EF27722D49F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationService.Data.Migrations", "IntegrationService.Data.Migrations\IntegrationService.Data.Migrations.csproj", "{62CE14B4-E340-4E6D-9241-7CEA4E970301}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationService.Data.Migrations", "IntegrationService.Data.Migrations\IntegrationService.Data.Migrations.csproj", "{62CE14B4-E340-4E6D-9241-7CEA4E970301}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationService.Core", "IntegrationService.Core\IntegrationService.Core.csproj", "{F3C57A75-92FB-4C4C-9DCE-6E5785A825AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationService.Core", "IntegrationService.Core\IntegrationService.Core.csproj", "{F3C57A75-92FB-4C4C-9DCE-6E5785A825AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationService.Providers", "IntegrationService.Providers\IntegrationService.Providers.csproj", "{D63C058C-1D33-49A3-88AD-5693EC3C0A16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationService.Providers", "IntegrationService.Providers\IntegrationService.Providers.csproj", "{D63C058C-1D33-49A3-88AD-5693EC3C0A16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationService.Tests", "IntegrationService.Tests\IntegrationService.Tests.csproj", "{5953DB16-6CC2-4EA4-A3DD-2CA1A698C149}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationService.Tests", "IntegrationService.Tests\IntegrationService.Tests.csproj", "{5953DB16-6CC2-4EA4-A3DD-2CA1A698C149}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
